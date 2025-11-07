@@ -1,0 +1,5 @@
+Skill Set: SKILL SET NAME
+Join: battlerunderb-9977, Enter, Spawn
+{START]
+Kill for items: Skeleton Warrior
+Goto label: Start
