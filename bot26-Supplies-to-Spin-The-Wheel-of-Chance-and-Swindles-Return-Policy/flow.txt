@@ -1,0 +1,63 @@
+[TOP]
+Skill Set: CLASS SKILLS
+Quest can be turned in: 555
+Complete quest: 555
+Quest can be turned in: 557
+Complete quest: 557
+Quest can be turned in: 7551
+Complete quest: 7551-22332
+Accept quest: 555
+Accept quest: 557
+Accept quest: 7551
+Is in temp inventory: Legion Fenrir Rune, 1
+Goto label: 2nd part
+Item is not in temp inventory, Legion Fenrir Rune, Quantity (* = any)
+Goto label: Mini Diversion
+[2ND PART]
+Is in temp inventory: Dark Makai Rune, 1
+Goto label: Escherion
+Item is not in temp inventory: Legion Fenrir Rune, 1
+Goto label: 4th part
+[4TH PART]
+Item is not in temp inventory: Dark Makai Rune, 1
+Goto label: Finish group 1 quest
+Goto label: Finish Group 1 quest
+[FINISH GROUP 1 QUEST]
+Join: evilwarnul-1, Enter, Spawn
+Is in temp inventory; Legion Fenrir Rune, 1
+Goto label: Finish group 2 quest
+Move to cell: r12, Left
+Kill for tempitems: Legion Fenrir
+Move to cell: r11, Right
+Is in temp inventory: Legion Fenrir Rune, 1
+Goto label: Finish Group 2 Quest
+{FINISH GROUP 2 QUEST]
+Join: citadel-1, Enter, Spawn
+Is in temp inventory: Dark Makai Rune, 1
+Goto label: Group 1 Quest
+Move to cell: m22, Left
+Join: tercessuinotlim-1, Enter, Spawn
+Move to cell: m2, Bottom
+Kill for tempitems: Dark Makai
+Move to cell: m4, Right
+Is in temp inventory: Dark Makai Rune, 1
+Goto label: Group 1 Quest
+[ESCHERION]
+[GROUP 1 QUEST]
+Join: escherion-1, Enter, Spawn
+Move to cell: Boss, Left
+[2]
+Quest can be turned in: 555
+Complete quest: 555
+Quest can be turned in: 557
+Complete quest: 557
+Quest can be turned in: 7551
+Complete quest: 7551:22332
+Is in inventory: Voucher of Nulgath (non-mem), 1
+Sell: Voucher of Nulgath (non-mem), 1
+Is in inventory: Voucher of Nulgath, 1
+Sell: Voucher of Nulgath, 1
+Sell: Voucher of Nulgath
+Kill for items: Escherion
+Goto label: top
+[MINI DIVERSION]
