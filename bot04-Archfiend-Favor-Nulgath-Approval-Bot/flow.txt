@@ -1,0 +1,6 @@
+Skill Set: SKILL SET NAME
+Join: evilwarnul-1, Enter, Spawn
+Move to cell: r12, Left
+[REPEAT]
+Kill *
+Goto label: Repeat
