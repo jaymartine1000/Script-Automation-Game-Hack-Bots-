@@ -1,0 +1,14 @@
+Join: poisonforest-1, Enter, Spawn
+[START]
+Quest can be turned in: 2952
+Complete quest: 1952
+Accept quest: 1952
+Quest cannot be turned in: 1952
+Goto label: Repeat
+[REPEAT]
+Move to cell: r7, Down
+Kill for tempitems: Burning Loyalist
+Goto label: Complete
+[COMPLETE]
+Complete quest: 1952
+Goto label: Start
