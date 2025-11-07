@@ -1,0 +1,6 @@
+Skill Set: SKILL SET NAME
+Join: arcangrove-1, Enter, Spawn
+Move to cell: LeftBack, Left
+Accept quest: 802
+Kill for tempitems: Gorillaphant
+Complete quest: 802
