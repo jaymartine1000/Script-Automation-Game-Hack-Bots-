@@ -1,0 +1,12 @@
+Join: escherion, Enter, Spawn
+Move to cell: Boss, Left
+Skill Set: PYROMANCER SKILLS
+[MIDDLE]
+Accept quest: 555
+Kill for items: Escherion
+Complete quest: 555
+Is in inventory: Voucher of Nulgath, 1
+Sell: Voucher of Nulgath
+Is in inventory: Voucher of Nulgath (non-mem), 1
+Sell: Voucher of Nulgath (non-mem)
+Goto label: Middle
