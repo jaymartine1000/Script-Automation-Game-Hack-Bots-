@@ -1,0 +1,38 @@
+Skill Set: SKILL SET NAME
+Accept quest: 318
+Join: greendragon-1, Enter, Spawn
+Move to cell: Boss, Left
+[R1]
+Kill for tempitems: *
+Item is not in temp inventory: Black Knight Chest Piece, 1
+Goto label: R1
+Is in temp inventory: Black Knight Chest Piece, 1
+Goto label: N1
+[N1]
+[R2]
+Join: trunk-1, Enter, Spawn
+Kill for tempitems: *
+Item is not in temp inventory: Black Knight Arm Piece, 1
+Goto label: R2
+Is in temp inventory: Black Knight Arm Piece, 1
+Goto label: N2
+[N2]
+Join: well-1, Enter, Spawn
+Move to cell: Boss, Center
+[R3]
+Kill for tempitems: *
+Item is not in temp inventory: Black Knight Leg Piece, 1
+Goto label: R3
+Is in temp inventory: Black Knight Leg Piece, 1
+Goto label: N4
+[N4]
+Join: deathgazer-1, Enter, Spawn
+[R4]
+Kill for tempitems: *
+Item is not in temp inventory: Black Knight Shoulder Piece, 1
+Goto label: R4
+Is in temp inventory: Black Knight Shoulder Piece, 1
+Goto label: C
+[C]
+Complete quest: 318
+Get drop: Black Knight Orb
