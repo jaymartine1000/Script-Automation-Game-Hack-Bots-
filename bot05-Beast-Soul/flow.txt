@@ -1,0 +1,6 @@
+Skill Set: SKILL SET NAME
+Join: sevencirclewar, Enter, Spawn
+Move to cell: r17, Left
+[R1]
+Kill The Beast
+Goto label: R1
