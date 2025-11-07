@@ -1,0 +1,16 @@
+[START]
+Map is: tercessuinotlim
+Goto label: Middle
+Join: battleon-555, Enter, Spawm
+Join: citadel, Enter, Spawn
+Move to cell: m22, Left
+Join: tercessuinotlim, Enter, Spawn
+[MIDDLE]
+Move to cell: m2, Bottom
+Accept quest: 4778
+Get drop: Essence of Nulgath
+Skill Set: PYROMANCER SKILLS
+Kill for items: Dark Makai
+Complete quest: 4778:5357
+Goto label: Middle
+Skill Set: SKILL SET NAME
