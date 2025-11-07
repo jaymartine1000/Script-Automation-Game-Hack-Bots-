@@ -1,0 +1,18 @@
+Skill Set: SKILL SET NAME
+Join: sevencircleswar-1, Enter, Spawn
+[R1]
+Accept quest: 7979
+Kill for tempitems: Wrath Guard
+Quest can be turned in: 7979
+Complete quest: 7979
+Quest can be turned in: 7981
+[R2]
+Complete quest: 7981
+Quest can be turned in: 7981
+Goto label: R2
+[R2]
+Complete quest: 7981
+Quest can be turned in: 7981
+Goto label: R2
+Quest cannot be turned in: 7981
+Goto label: R1
