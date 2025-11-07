@@ -1,0 +1,40 @@
+Skill Set: SKILL SET NAME
+[REPEAT]
+[START]
+Quest can be turned in: 5085
+Complete quest: 5085
+Accept quest: 5085
+Join: tachyon-1, Enter, Spawn
+Move to cell: r18, Right
+[REPEAT 1]
+Kill for items: Svelgr The Devourer
+Is in inventory: Svelgr Fang, 1
+Goto label: Continue 1
+Item is not in inventory: Svelgr Fang, 1
+Goto label: Repeat 1
+[CONTINUE]
+[REPEAT 2]
+Join: portalwar-1, Enter, Spawn
+Move to cell: r2, Bottom
+Kill for items: Chronorysa
+Get drop: Sands of Time
+Is in inventory: Sands of Time, 6
+Goto label: Continue 2
+Item is not in inventory: Sands of Time, 6
+Goto label: Repeat 2
+[CONTINUE 2]
+[REPEAT 3]
+Join: portalmaze-1, Enter, Spawn
+Move to cell: r3, Left
+Kill for items: Time Wraith
+Get drop: Wraith Wisp
+Item is not in inventory: Wraith Wisp, 12
+Goto label: Repeat 3
+Is in inventory: Wraith Wisp, 12
+Goto label: Continue 3
+[CONTINUE 3]
+Quest can be turned in: 5085
+Complete quest: 5085
+Quest cannot be turned in: 5085
+Goto label: Start
+Goto label: Repeat
