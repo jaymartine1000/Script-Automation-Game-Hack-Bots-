@@ -1,0 +1,11 @@
+Skill Set: SKILL SET NAME
+[START]
+Join: citadel, Enter, Spawn
+Move to cell: m22, Left
+Join: tercessuinotlim, Enter, Spawn
+Move to cell: m2, Bottom
+[MIDDLE]
+Accept quest: 4778
+Kill for items: Dark Makai
+Complete quest: 4778:5357
+Goto label: Middle
