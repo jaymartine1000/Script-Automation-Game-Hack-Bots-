@@ -1,0 +1,9 @@
+Skill Set: SKILL SET NAME
+Join: sevencircleswar-1, Enter, Spawn
+Move to cell: r4, Left
+[R1]
+Accept quest: 7982
+Kill for tempitems: Wrath
+Quest can be turned in: 7982
+Complete quest: 7982
+Goto label: R1
