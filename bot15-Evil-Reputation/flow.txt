@@ -1,0 +1,8 @@
+Join: graveyard-1, Enter, Spawn
+Move to cell: Top, Left
+[REPEAT]
+Accept quest: 367
+Kill for tempitems: *
+Is in temp inventory: Replacement Tibia, 6
+Complete quest: 367
+Goto label: Repeat
