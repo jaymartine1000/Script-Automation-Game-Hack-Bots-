@@ -1,0 +1,28 @@
+Skill Set: SKILL SET NAME
+[START]
+Accept quest: 7551
+Accept quest: 555
+Join: citadel, Enter, Spawn
+Move to cell: m22, Left
+Join: tercessuinotlim-1, Enter, Spawn
+Move to cell: m2, Bottom
+Kill for tempitems: Dark Makai
+Move to cell: m1, Right
+Goto label: Continue
+[CONTINUE]
+Join: escherion, Enter, Spawn
+Move to cell: Boss, Left
+Item is not in temp inventory: Dark Makai Rune, 1
+Goto label: Start
+Is in temp inventory: Dark Makai Rune, 1
+[MIDDLE]
+Accept quest: 555
+Accept quest: 7551
+Item is not in temp inventory: Dark Makai Rune, 1
+Goto label: Start
+Kill for items: Escherion
+Complete quest: 555
+Complete quest: 7551:6136
+Is in inventory: Voucher of Nulgath (non-mem), 1
+Sell: Voucher of Nulgath (non-mem), 1
+Goto label: Middle
