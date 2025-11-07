@@ -1,0 +1,11 @@
+Skill Set: 1
+Join: beehive-1, Enter, Spawn
+[REPEAT]
+[REPEAT2]
+Accept quest: 4829
+Move to cell: r1, Left
+Kill *
+Item is not in temp inventory: Honey Gathered, 10
+Goto label: Repeat2
+Complete quest: 4829
+Goto label: Repeat
