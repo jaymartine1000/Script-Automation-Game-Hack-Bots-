@@ -1,0 +1,14 @@
+Skill Set: SKILL SET NAME
+Join: sevencircles-1, Enter, Spawn
+[START]
+Accept quest: 7978
+Move to cell: r2, Right
+Kill for tempitems: Limbo Guard
+Move to cell: r3, Left
+Kill for tempitems: Luxuria Guard
+Move to cell: r6, Left
+Kill for tempitems: Gluttony
+Move to cell: r8, Left
+Kill for tempitems: Avarice
+Quest can be turned in: 7978
+Complete quest: 7978
