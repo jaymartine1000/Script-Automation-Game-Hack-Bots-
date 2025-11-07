@@ -1,0 +1,15 @@
+Skill Set: SKILL SET NAME
+Join: sevencircleswar-1, Enter, Spawn
+[R1]
+Quest can be turned in: 7984
+Complete quest: 7984
+Move to cell: r8, Left
+Accept quest: 7984
+Kill Violence's Gatekeeper
+Move to cell: r7, Right
+Complete quest: 7984
+Quest can be turned in: 7981
+Complete quest: 7981
+Quest can be turned in: 7980
+Complete quest: 7980
+Goto label: R1
