@@ -1,0 +1,9 @@
+Skill Set: SKILL SET NAME
+Join; citadel-1, Enter, Spawn
+Move to cell: m1, Up
+[START]
+Accept quest: 7293
+Kill for tempitems: Inquisitor Guard
+Quest can be turned in: 7293
+Complete quest: 7293
+Goto label: Start
