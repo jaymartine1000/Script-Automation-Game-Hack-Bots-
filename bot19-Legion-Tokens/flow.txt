@@ -1,0 +1,11 @@
+Skill Set: SKILL SET NAME
+Join: fotia-9977, Enter, Spawn
+[REPEAT]
+[START]
+Accept quest: 5755
+Kill *
+Quest cannot be turned in: 5755
+Goto label: Repeat
+Quest can be turned in: 5755
+Complete quest: 5755
+Goto label: Start
