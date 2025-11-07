@@ -1,0 +1,20 @@
+Skill Set: SKILL SET NAME
+[R1]
+Join: collectorlab-1, Enter, Spawn
+Accept quest: 1310
+Kill for tempitems: *
+Quest can be turned in: 310
+Complete quest: 1310
+Is in inventory: Super-Fan Swag Token C, 10
+[R2]
+Join: collection-1, Enter, Spawn
+Buy item: Super-Fan Swag Token B
+Is in inventory: Super-Fan Swag Token C, 10
+Goto label: R2
+Is in inventory: Super-Fan Swag Token B, 20
+[R3]
+Join: collection-1, Enter, Spawn
+Buy item: Super-Fan Swag Token A
+Is in inventory: Super-Fan Swag Token B, 20
+Goto label: R3
+Goto label: R1
