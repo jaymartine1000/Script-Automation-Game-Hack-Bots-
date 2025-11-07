@@ -1,5 +1,5 @@
 Skill Set: SKILL SET NAME
-Join: sevencirclewar-1, Enter, Spawn
+Join: sevencircleswar-1, Enter, Spawn
 Move to cell: r15, Right
 [R1]
 Cell is not: r15
