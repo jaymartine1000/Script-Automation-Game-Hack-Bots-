@@ -1,0 +1,12 @@
+Skill Set: SKILL SET NAME
+[START]
+Accept quest: 3743
+Join: blindingsnow-9987, Enter, Spawn
+Move to cell: r17, Down
+Kill for items: Chaos Gemrald
+Get drop: Fragment of Chaos
+Join: evilwarnul-9987, Enter, Spawn
+Move to cell: r12, Left
+Kill for tempitems: Legion Fenrir
+Complete quest: 3743
+Goto label: Start
