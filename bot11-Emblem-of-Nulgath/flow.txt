@@ -1,0 +1,14 @@
+Skill Set: SKILL SET NAME
+Accept quest: 4748
+Join: shadowblast-1, Enter, Spawn
+Move to cell: r13, Left
+[R1]
+Accept quest: 4748
+Item is not in inventory: Fiend Seal, 25
+Kill for items: *
+Item is not in inventory: Gem of Domination, 1
+Kill for items: *
+Complete quest: 4748
+Get drop: Emblem of Nulgath
+Accept quest: 4748
+Goto label: R1
