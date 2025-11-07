@@ -1,0 +1,35 @@
+Skill Set: SKILL SET NAME
+Skill Set: Enforcer
+Join: elemental-1, Enter, Spawn
+[REPEAT]
+Is in inventory: Voucher of Nulgath, 1
+Sell: Voucher of Nulgath, 1
+Is in inventory: Voucher of Nulgath (non-mem), 1
+Sell: Voucher of Nulgath (non-mem), 1
+Quest can be turned in: 2566
+Complete quest: 2566
+Move to cell: r5, Spawn
+Accept quest: 2566
+[START STEP 1]
+Is in inventory: Mana Energy for Nulgath, 1
+Goto label: Step 2
+Item is not in inventory: Mana Energy for Nulgath, 1
+Kill for items: Mana Golem
+Rest
+Quest can be turned in: 2566
+Complete quest: 2566
+[STEP 2]
+Move to cell: r3, Spawn
+Accept quest: 2566
+Kill for tempitems: *
+Rest
+Is in temp inventory: Charged Mana Energy for Nulgath, 5
+Goto label: Complete Quest
+Item is not in temp inventory: Charged Mana Energy for Nulgath, 5
+Goto label: Step 2
+[COMPLETE QUEST]
+Quest can be turned in: 2566
+Complete quest: 2566
+Quest cannot be turned in: 2566
+Goto label: Repeat
+Goto label: Repeat
